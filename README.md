@@ -30,7 +30,7 @@ As a tech enthusiast, I'm fueled by a boundless curiosity and a relentless drive
 
 
 ## 🔭 A Few of my Showcase Projects
-- [`@stripemetrics`](https://github.com/igormagalhaesr/stripemetrics): Computing stripe metrics just like the dashboard with python.
+- [`@Space_tg_game`](https://github.com/filiurskyi/Space_tg_game): Text-based space game build in Telegram with python and aiogram.
 
 
 ## 📫 Contact
@@ -39,6 +39,7 @@ You can message me on [LinkedIn](https://www.linkedin.com/in/andrii-filiurskyi).
 
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
 ![Pytest](https://img.shields.io/badge/-Pytest-000?&logo=Pytest)
+
 **filiurskyi/filiurskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
