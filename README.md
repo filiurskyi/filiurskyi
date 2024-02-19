@@ -26,7 +26,7 @@ As a tech enthusiast, I'm fueled by a boundless curiosity and a relentless drive
 ![Pydantic](https://img.shields.io/badge/-Pydantic-EEE?&logo=Pydantic)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-EEE?&logo=TensorFlow)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-EEE?&logo=BeautifulSoup)
-![Selenium](https://img.shields.io/badge/-Selenium-EEE?&logo=Selenium)
+![celery](https://img.shields.io/badge/-celery-EEE?&logo=celery)
 ![Pytest](https://img.shields.io/badge/-Pytest-EEE?&logo=Pytest)
 
 
