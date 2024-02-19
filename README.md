@@ -10,6 +10,7 @@ As a tech enthusiast, I'm fueled by a boundless curiosity and a relentless drive
 ![SQL](https://img.shields.io/badge/-SQL-EEE?&logo=SQL)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-EEE?&logo=GoogleCloud)
 ![aiogram](https://img.shields.io/badge/-aiogram-EEE?&logo=aiogram)
+![redis](https://img.shields.io/badge/-redis-EEE?&logo=redis)
 
 ### Web
 ![Django](https://img.shields.io/badge/-Django-EEE?&logo=Django)
