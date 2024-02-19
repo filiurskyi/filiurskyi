@@ -33,7 +33,7 @@ As a tech enthusiast, I'm fueled by a boundless curiosity and a relentless drive
 ## 🔭 A Few of my Showcase Projects
 - [`@Space_tg_game`](https://github.com/filiurskyi/Space_tg_game): Text-based space game build in Telegram with `aiogram`.
 - [`@django-example`](https://github.com/filiurskyi/django-example): A project built on `django` that uses `celery` to manage scraping of some quotes from https://quotes.toscrape.com/.
-
+- [`@fastapi-example`](https://github.com/filiurskyi/fastapi-example): A project built on `fastAPI` that uses `SQLAlchemy`, `alembic`, `PostgreSQL`. User auth with `JWT-Tokens` and OTP passwords per email. With 100% documentation in `sphinx`.
 
 
 ## 📫 Contact
