@@ -32,10 +32,10 @@ As a **Back-End Software Engineer** with expertise spanning DevOps, and ML, I th
 
 
 ## 🔭 A Few of my Showcase Projects
-- [`@Space_tg_game`](https://github.com/filiurskyi/Space_tg_game): Text-based space game build in Telegram with `aiogram`.
-- [`@django-example`](https://github.com/filiurskyi/django-example): A project built on `Django` that uses `celery` to manage scraping of some quotes from https://quotes.toscrape.com/.
-- [`@fastapi-example`](https://github.com/filiurskyi/fastapi-example): A project built on `fastAPI` that uses `SQLAlchemy`, `alembic`, `PostgreSQL`. User auth with `JWT-Tokens` and OTP passwords per email. With 100% documentation in `sphinx`.
 - [`@personal-assistant-web`](https://github.com/filiurskyi/personal-assistant-web): A team project built on `Django` that uses `PostgreSQL` and `Google Cloud`. Its a Personal Assistant for Organizing Contacts, Notes, and Files!.
+- [`@fastapi-example`](https://github.com/filiurskyi/fastapi-example): A project built on `fastAPI` that uses `SQLAlchemy`, `alembic`, `PostgreSQL`. User auth with `JWT-Tokens` and OTP passwords per email. With 100% documentation in `sphinx`.
+- [`@django-example`](https://github.com/filiurskyi/django-example): A project built on `Django` that uses `celery` to manage scraping of some quotes from https://quotes.toscrape.com/.
+- [`@Space_tg_game`](https://github.com/filiurskyi/Space_tg_game): Text-based space game build in Telegram with `aiogram`.
 
 
 ## 📫 Contact
