@@ -26,11 +26,10 @@ As a **Back-End Software Engineer** with expertise spanning DevOps, and ML, I th
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EEE?&logo=PostgreSQL)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-EEE?&logo=SQLAlchemy)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-EEE?&logo=Pydantic)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-EEE?&logo=TensorFlow)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-EEE?&logo=BeautifulSoup)
 ![celery](https://img.shields.io/badge/-celery-EEE?&logo=celery)
 ![Pytest](https://img.shields.io/badge/-Pytest-EEE?&logo=Pytest)
-
+[![TensorFlow Certificate](https://img.shields.io/badge/-TensorFlow-EEE?&logo=TensorFlow)](https://www.credential.net/2b414898-f801-4280-b941-05f15ce64f7a)
 
 ## 🔭 A Few of my Showcase Projects
 - [`@personal-assistant-web`](https://github.com/filiurskyi/personal-assistant-web): A team project built on `Django` that uses `PostgreSQL` and `Google Cloud`. Its a Personal Assistant for Organizing Contacts, Notes, and Files!.
