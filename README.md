@@ -9,7 +9,7 @@ As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on p
 ### Core
 ![Python](https://img.shields.io/badge/-Python-EEE?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-EEE?&logo=Linux)
-![Yocto](https://img.shields.io/badge/-Yocto-EEE?&logo=Yocto)
+![Yocto Project](https://img.shields.io/badge/-yocto-EEE?&logo=yocto)
 ![Bash](https://img.shields.io/badge/-Bash-EEE?&logo=Bash)
 
 ### Web
@@ -20,6 +20,7 @@ As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on p
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-EEE?&logo=GoogleCloud)
 ![redis](https://img.shields.io/badge/-redis-EEE?&logo=redis)
 
+<!--
 ### Other
 ![Docker](https://img.shields.io/badge/-Docker-EEE?&logo=Docker)
 ![Poetry](https://img.shields.io/badge/-Poetry-EEE?&logo=Poetry)
@@ -32,7 +33,7 @@ As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on p
 [![TensorFlow Certificate](https://img.shields.io/badge/-TensorFlow-EEE?&logo=TensorFlow)](https://www.credential.net/2b414898-f801-4280-b941-05f15ce64f7a)
 
 
-<!--
+
 ## 🔭 A Few of my Showcase Projects
 - [`@personal-assistant-web`](https://github.com/filiurskyi/personal-assistant-web): A team project built on `Django` that uses `PostgreSQL` and `Google Cloud`. Its a Personal Assistant for Organizing Contacts, Notes, and Files!.
 - [`@fastapi-example`](https://github.com/filiurskyi/fastapi-example): A project built on `fastAPI` that uses `SQLAlchemy`, `alembic`, `PostgreSQL`. User auth with `JWT-Tokens` and OTP passwords per email. With 100% documentation in `sphinx`.
