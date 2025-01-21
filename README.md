@@ -6,6 +6,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-EEE?&logo=Linux)
 ![Yocto Project](https://img.shields.io/badge/-yocto-EEE?&logo=yocto)
 ![Bash](https://img.shields.io/badge/-Bash-EEE?&logo=Bash)
+
 As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on pushing the boundaries of innovation. Armed with proficiency in Python, SQLAlchemy, Postgres, Redis, Django, and FastAPI, I craft robust, scalable applications tailored to meet the evolving needs of my clients. Leveraging containerization technologies like Docker, I provide seamless deployments of microservices in cloud environments, ensuring optimal performance and efficiency. My fervor for exploring cutting-edge technologies drives me to continuously refine my skills and deliver exceptional solutions that drive tangible business.
 
 <!--
