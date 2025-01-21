@@ -2,15 +2,15 @@
 [![Andrii Filiurskyi profile views](https://u8views.com/api/v1/github/profiles/112859467/views/day-week-month-total-count.svg)](https://u8views.com/github/filiurskyi)
 
 ## 👓 About
-As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on pushing the boundaries of innovation. Armed with proficiency in Python, SQLAlchemy, Postgres, Redis, Django, and FastAPI, I craft robust, scalable applications tailored to meet the evolving needs of my clients. Leveraging containerization technologies like Docker, I provide seamless deployments of microservices in cloud environments, ensuring optimal performance and efficiency. My fervor for exploring cutting-edge technologies drives me to continuously refine my skills and deliver exceptional solutions that drive tangible business.
-
-
-## 🛠️ Technologies
-### Core
 ![Python](https://img.shields.io/badge/-Python-EEE?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-EEE?&logo=Linux)
 ![Yocto Project](https://img.shields.io/badge/-yocto-EEE?&logo=yocto)
 ![Bash](https://img.shields.io/badge/-Bash-EEE?&logo=Bash)
+As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on pushing the boundaries of innovation. Armed with proficiency in Python, SQLAlchemy, Postgres, Redis, Django, and FastAPI, I craft robust, scalable applications tailored to meet the evolving needs of my clients. Leveraging containerization technologies like Docker, I provide seamless deployments of microservices in cloud environments, ensuring optimal performance and efficiency. My fervor for exploring cutting-edge technologies drives me to continuously refine my skills and deliver exceptional solutions that drive tangible business.
+
+<!--
+## 🛠️ Technologies
+### Core
 
 ### Web
 ![Django](https://img.shields.io/badge/-Django-EEE?&logo=Django)
@@ -20,7 +20,7 @@ As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on p
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-EEE?&logo=GoogleCloud)
 ![redis](https://img.shields.io/badge/-redis-EEE?&logo=redis)
 
-<!--
+
 ### Other
 ![Docker](https://img.shields.io/badge/-Docker-EEE?&logo=Docker)
 ![Poetry](https://img.shields.io/badge/-Poetry-EEE?&logo=Poetry)
