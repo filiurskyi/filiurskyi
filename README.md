@@ -11,19 +11,16 @@ As a **Software Engineer** with expertise spanning DevOps, and ML, I thrive on p
 ![Linux](https://img.shields.io/badge/-Linux-EEE?&logo=Linux)
 ![Yocto](https://img.shields.io/badge/-Yocto-EEE?&logo=Yocto)
 ![Bash](https://img.shields.io/badge/-Bash-EEE?&logo=Bash)
-![SQL](https://img.shields.io/badge/-SQL-EEE?&logo=SQL)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-EEE?&logo=GoogleCloud)
-![aiogram](https://img.shields.io/badge/-aiogram-EEE?&logo=aiogram)
-![redis](https://img.shields.io/badge/-redis-EEE?&logo=redis)
 
 ### Web
 ![Django](https://img.shields.io/badge/-Django-EEE?&logo=Django)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-EEE?&logo=DjangoREST)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-EEE?&logo=FastAPI)
-![HTML](https://img.shields.io/badge/-HTML-EEE?&logo=HTML)
+![SQL](https://img.shields.io/badge/-SQL-EEE?&logo=SQL)
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-EEE?&logo=GoogleCloud)
+![redis](https://img.shields.io/badge/-redis-EEE?&logo=redis)
 
 ### Other
-![Linux](https://img.shields.io/badge/-Linux-EEE?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-EEE?&logo=Docker)
 ![Poetry](https://img.shields.io/badge/-Poetry-EEE?&logo=Poetry)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EEE?&logo=PostgreSQL)
