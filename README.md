@@ -3,6 +3,8 @@
 
 ## 👓 About
 ![Python](https://img.shields.io/badge/-Python-EEE?&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-EEE?&logo=Rust)
+![C++](https://img.shields.io/badge/-C++-EEE?logo=cplusplus)
 ![Linux](https://img.shields.io/badge/-Linux-EEE?&logo=Linux)
 ![Yocto](https://img.shields.io/badge/-Yocto%20Project-EEE?&logo=Yocto%20Project)
 ![Bash](https://img.shields.io/badge/-Bash-EEE?&logo=Bash)
