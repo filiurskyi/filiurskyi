@@ -11,6 +11,11 @@
 
 I absolutely love technologies and engineering spanning from Hardware to Software.
 
+<div align="center">
+  <img width="392" height="700" src="https://github-readme-stats.vercel.app/api?username=filiurskyi&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
+  <img height="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiurskyi&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
+    <br><br>
+</div>
 
 <!--
 ## 🛠️ Technologies
