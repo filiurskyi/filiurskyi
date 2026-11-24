@@ -1,5 +1,6 @@
 ### Hi there, i'm Andrii 👋
 [![Andrii Filiurskyi profile views](https://u8views.com/api/v1/github/profiles/112859467/views/day-week-month-total-count.svg)](https://u8views.com/github/filiurskyi)
+[Blog](https://filiurskyi.github.io/)
 
 ## 👓 About
 ![Python](https://img.shields.io/badge/-Python-EEE?&logo=Python)
