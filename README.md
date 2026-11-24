@@ -1,6 +1,5 @@
 ### Hi there, i'm Andrii 👋
 [![Andrii Filiurskyi profile views](https://u8views.com/api/v1/github/profiles/112859467/views/day-week-month-total-count.svg)](https://u8views.com/github/filiurskyi)
-[Blog](https://filiurskyi.github.io/)
 
 ## 👓 About
 ![Python](https://img.shields.io/badge/-Python-EEE?&logo=Python)
@@ -11,7 +10,7 @@
 ![Yocto](https://img.shields.io/badge/-Yocto%20Project-EEE?&logo=Yocto%20Project)
 ![Bash](https://img.shields.io/badge/-Bash-EEE?&logo=Bash)
 
-I absolutely love technologies and engineering spanning from Hardware to Software.
+I absolutely love technologies and engineering spanning from Hardware to Software. You may check out my [blog](https://filiurskyi.github.io/).
 
 <div align="center">
   <!--<img width="392" height="700" src="https://github-readme-stats.vercel.app/api?username=filiurskyi&show_icons=true&theme=vision-friendly-dark&border_radius=10" />-->
